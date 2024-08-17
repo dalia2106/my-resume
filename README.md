@@ -11,6 +11,6 @@ This project showcases a professional resume designed with HTML and CSS, featuri
 - 🔗 **Live Demo**: View the live version [here](https://dalia2106.github.io/my-resume/).
 
 ## Technologies Used
-**HTML**: Structured content and layout.
-**CSS**: Styling and responsiveness, including media queries for different screen sizes
+- **HTML**: Structured content and layout.
+- **CSS**: Styling and responsiveness, including media queries for different screen sizes
 
